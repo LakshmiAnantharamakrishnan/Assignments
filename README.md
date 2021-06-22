@@ -1,1 +1,1 @@
-# Assignments
+# Selenium Automated Testcases and practices
